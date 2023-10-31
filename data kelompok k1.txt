@@ -2,3 +2,8 @@ Nama : Ihya Ulumuddin
 Nim : E31220197
 Prodi : Manajemen Informatika
 Jurusan : Teknologi Informasi
+
+Nama : Nurul Qomaria
+Nim : E31221213
+Prodi : Manajemen Informatika
+Jurusan : Teknologi Informasi
